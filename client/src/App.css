@@ -1,0 +1,54 @@
+.container {
+  text-align: center;
+  padding: 50px 10px;
+}
+.container h3{
+  font-size: 36px;
+  padding: 20px 0;
+}
+.container input{
+  padding: 6px 10px;
+  margin: 0 10px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}
+.container .inputs{
+  padding: 10px 0;
+  margin: 10px 0;
+}
+.container button{
+  padding: 5px 10px;
+  border-radius: 5px;
+  color: #fff;
+  border: 1px solid #ccc;
+  font-size: 14px;
+  cursor: pointer;
+  transition: all 0.5s ease-in-out;
+}
+.btn-grey{
+  background-color: rgb(58, 61, 58);
+}
+.btn-green{
+  background-color: green;
+}
+.btn-green:hover{
+  background-color: rgb(6, 176, 6);
+}
+.btn-red{
+  background-color: rgb(238, 99, 99);
+}
+.btn-red:hover{
+  background-color: rgb(244, 46, 46);
+}
+
+
+.container table{
+  border-collapse: collapse;
+  width: 100%;
+  cursor: pointer;
+}
+.container table tr, td, th{
+  padding: 10px 15px;
+  text-align: center;
+  border: 1px solid #ccc;
+}

@@ -1,0 +1,67 @@
+{
+  "items": [  
+    {  
+      "id": 1,
+      "name": "Kumar",
+      "age": 25,
+      "mobileno": "7561236981",
+      "city": "Palani"
+    },
+    {  
+      "id": 2,
+      "name": "Ravi",
+      "age": 32,
+      "mobileno": "8610762352",
+      "city": "Chennai"
+    },
+    {  
+      "id": 3,
+      "name": "RaviKumar",
+      "age": 45,
+      "mobileno": "9875623140",
+      "city": "Cuddalur"
+    },
+    {  
+      "id": 4,
+      "name": "Kamal",
+      "age": 25,
+      "mobileno": "3652314890",
+      "city": "Coimbatore"
+    },
+    {  
+      "id": 5,
+      "name": "Kumar",
+      "age": 25,
+      "mobileno": "7561236981",
+      "city": "Dgl"
+    },
+    {  
+      "id": 6,
+      "name": "Kalam",
+      "age": 35,
+      "mobileno": "7561236981",
+      "city": "Karur"
+    },
+    {  
+      "id": 7,
+      "name": "Ragul Kuamr",
+      "age": 35,
+      "mobileno": "7561236981",
+      "city": "Tirupur"
+    },
+    {  
+      "id": 8,
+      "name": "Arun",
+      "age": 55,
+      "mobileno": "7561289654",
+      "city": "Trichy"
+    },
+    {  
+      "id": 9,
+      "name": "Anu",
+      "age": 25,
+      "mobileno": "3698521470",
+      "city": "Palani"
+    }
+  ]
+}
